@@ -10,7 +10,7 @@ Página 2:
 ![detalhes](topn.png)
 
 Página 1:
-![detalhes](cluster.png)
+![detalhes](clusters.png)
 
 Para fazer o TOP N, usamos a função de Filtro do PBI.
 
